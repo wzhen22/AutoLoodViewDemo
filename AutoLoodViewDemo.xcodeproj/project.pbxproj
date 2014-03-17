@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		310E562F18D6849400CE3604 /* tableBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 310E562E18D6849400CE3604 /* tableBarViewController.m */; };
+		310E563218D684B600CE3604 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 310E563118D684B600CE3604 /* OneViewController.m */; };
+		310E563518D684C500CE3604 /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 310E563418D684C500CE3604 /* TwoViewController.m */; };
+		310E563818D684D500CE3604 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 310E563718D684D500CE3604 /* ThreeViewController.m */; };
+		310E563B18D684E300CE3604 /* FourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 310E563A18D684E300CE3604 /* FourViewController.m */; };
 		3114417518CE99C700E1AFA4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3114417418CE99C700E1AFA4 /* Foundation.framework */; };
 		3114417718CE99C700E1AFA4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3114417618CE99C700E1AFA4 /* CoreGraphics.framework */; };
 		3114417918CE99C700E1AFA4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3114417818CE99C700E1AFA4 /* UIKit.framework */; };
@@ -21,6 +26,15 @@
 		3114419618CE99C700E1AFA4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3114417818CE99C700E1AFA4 /* UIKit.framework */; };
 		3114419E18CE99C700E1AFA4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3114419C18CE99C700E1AFA4 /* InfoPlist.strings */; };
 		311441A018CE99C700E1AFA4 /* AutoLoodViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3114419F18CE99C700E1AFA4 /* AutoLoodViewDemoTests.m */; };
+		311441AA18CE9F1300E1AFA4 /* DocumentsLayout.json in Resources */ = {isa = PBXBuildFile; fileRef = 311441A918CE9F1300E1AFA4 /* DocumentsLayout.json */; };
+		31A9424B18D038E000DA2EDF /* firstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A9424A18D038E000DA2EDF /* firstViewController.m */; };
+		31A9424E18D038EF00DA2EDF /* secondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A9424D18D038EF00DA2EDF /* secondViewController.m */; };
+		31A9425118D0394B00DA2EDF /* DataListClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A9425018D0394B00DA2EDF /* DataListClass.m */; };
+		31A9425518D0471900DA2EDF /* DocumentsLayout_2.json in Resources */ = {isa = PBXBuildFile; fileRef = 31A9425318D0471900DA2EDF /* DocumentsLayout_2.json */; };
+		31A9425618D0471900DA2EDF /* DocumentsLayout_1.json in Resources */ = {isa = PBXBuildFile; fileRef = 31A9425418D0471900DA2EDF /* DocumentsLayout_1.json */; };
+		31A9425918D05B0700DA2EDF /* customButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 31A9425818D05B0700DA2EDF /* customButton.m */; };
+		31AD933C18D199E8007F4CBF /* customView.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AD933B18D199E8007F4CBF /* customView.m */; };
+		31AD933E18D19DB1007F4CBF /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 31AD933D18D19DB1007F4CBF /* 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +48,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		310E562D18D6849300CE3604 /* tableBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tableBarViewController.h; sourceTree = "<group>"; };
+		310E562E18D6849400CE3604 /* tableBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tableBarViewController.m; sourceTree = "<group>"; };
+		310E563018D684B600CE3604 /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		310E563118D684B600CE3604 /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
+		310E563318D684C500CE3604 /* TwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoViewController.h; sourceTree = "<group>"; };
+		310E563418D684C500CE3604 /* TwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoViewController.m; sourceTree = "<group>"; };
+		310E563618D684D500CE3604 /* ThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
+		310E563718D684D500CE3604 /* ThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
+		310E563918D684E300CE3604 /* FourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourViewController.h; sourceTree = "<group>"; };
+		310E563A18D684E300CE3604 /* FourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourViewController.m; sourceTree = "<group>"; };
 		3114417118CE99C700E1AFA4 /* AutoLoodViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLoodViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3114417418CE99C700E1AFA4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3114417618CE99C700E1AFA4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +77,20 @@
 		3114419B18CE99C700E1AFA4 /* AutoLoodViewDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AutoLoodViewDemoTests-Info.plist"; sourceTree = "<group>"; };
 		3114419D18CE99C700E1AFA4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3114419F18CE99C700E1AFA4 /* AutoLoodViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutoLoodViewDemoTests.m; sourceTree = "<group>"; };
+		311441A918CE9F1300E1AFA4 /* DocumentsLayout.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DocumentsLayout.json; sourceTree = "<group>"; };
+		31A9424918D038E000DA2EDF /* firstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = firstViewController.h; sourceTree = "<group>"; };
+		31A9424A18D038E000DA2EDF /* firstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = firstViewController.m; sourceTree = "<group>"; };
+		31A9424C18D038EF00DA2EDF /* secondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = secondViewController.h; sourceTree = "<group>"; };
+		31A9424D18D038EF00DA2EDF /* secondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = secondViewController.m; sourceTree = "<group>"; };
+		31A9424F18D0394B00DA2EDF /* DataListClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataListClass.h; sourceTree = "<group>"; };
+		31A9425018D0394B00DA2EDF /* DataListClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataListClass.m; sourceTree = "<group>"; };
+		31A9425318D0471900DA2EDF /* DocumentsLayout_2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DocumentsLayout_2.json; sourceTree = "<group>"; };
+		31A9425418D0471900DA2EDF /* DocumentsLayout_1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DocumentsLayout_1.json; sourceTree = "<group>"; };
+		31A9425718D05B0700DA2EDF /* customButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = customButton.h; sourceTree = "<group>"; };
+		31A9425818D05B0700DA2EDF /* customButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = customButton.m; sourceTree = "<group>"; };
+		31AD933A18D199E8007F4CBF /* customView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = customView.h; sourceTree = "<group>"; };
+		31AD933B18D199E8007F4CBF /* customView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = customView.m; sourceTree = "<group>"; };
+		31AD933D18D19DB1007F4CBF /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,12 +150,32 @@
 		3114417A18CE99C700E1AFA4 /* AutoLoodViewDemo */ = {
 			isa = PBXGroup;
 			children = (
+				31A9425218D0395300DA2EDF /* commonData */,
 				3114418318CE99C700E1AFA4 /* AppDelegate.h */,
 				3114418418CE99C700E1AFA4 /* AppDelegate.m */,
 				3114418618CE99C700E1AFA4 /* Main.storyboard */,
 				3114418918CE99C700E1AFA4 /* ViewController.h */,
 				3114418A18CE99C700E1AFA4 /* ViewController.m */,
+				31A9424918D038E000DA2EDF /* firstViewController.h */,
+				31A9424A18D038E000DA2EDF /* firstViewController.m */,
+				31A9424C18D038EF00DA2EDF /* secondViewController.h */,
+				31A9424D18D038EF00DA2EDF /* secondViewController.m */,
+				31A9425718D05B0700DA2EDF /* customButton.h */,
+				31A9425818D05B0700DA2EDF /* customButton.m */,
+				31AD933A18D199E8007F4CBF /* customView.h */,
+				31AD933B18D199E8007F4CBF /* customView.m */,
+				310E562D18D6849300CE3604 /* tableBarViewController.h */,
+				310E562E18D6849400CE3604 /* tableBarViewController.m */,
+				310E563018D684B600CE3604 /* OneViewController.h */,
+				310E563118D684B600CE3604 /* OneViewController.m */,
+				310E563318D684C500CE3604 /* TwoViewController.h */,
+				310E563418D684C500CE3604 /* TwoViewController.m */,
+				310E563618D684D500CE3604 /* ThreeViewController.h */,
+				310E563718D684D500CE3604 /* ThreeViewController.m */,
+				310E563918D684E300CE3604 /* FourViewController.h */,
+				310E563A18D684E300CE3604 /* FourViewController.m */,
 				3114418C18CE99C700E1AFA4 /* Images.xcassets */,
+				31AD933718D18735007F4CBF /* dataSource */,
 				3114417B18CE99C700E1AFA4 /* Supporting Files */,
 			);
 			path = AutoLoodViewDemo;
@@ -150,6 +208,26 @@
 				3114419C18CE99C700E1AFA4 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		31A9425218D0395300DA2EDF /* commonData */ = {
+			isa = PBXGroup;
+			children = (
+				31A9424F18D0394B00DA2EDF /* DataListClass.h */,
+				31A9425018D0394B00DA2EDF /* DataListClass.m */,
+			);
+			name = commonData;
+			sourceTree = "<group>";
+		};
+		31AD933718D18735007F4CBF /* dataSource */ = {
+			isa = PBXGroup;
+			children = (
+				31AD933D18D19DB1007F4CBF /* 2.png */,
+				31A9425318D0471900DA2EDF /* DocumentsLayout_2.json */,
+				31A9425418D0471900DA2EDF /* DocumentsLayout_1.json */,
+				311441A918CE9F1300E1AFA4 /* DocumentsLayout.json */,
+			);
+			name = dataSource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,7 +274,7 @@
 		3114416918CE99C700E1AFA4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "传晟";
 				TargetAttributes = {
 					3114419118CE99C700E1AFA4 = {
@@ -228,6 +306,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				311441AA18CE9F1300E1AFA4 /* DocumentsLayout.json in Resources */,
+				31A9425518D0471900DA2EDF /* DocumentsLayout_2.json in Resources */,
+				31AD933E18D19DB1007F4CBF /* 2.png in Resources */,
+				31A9425618D0471900DA2EDF /* DocumentsLayout_1.json in Resources */,
 				3114418D18CE99C700E1AFA4 /* Images.xcassets in Resources */,
 				3114417F18CE99C700E1AFA4 /* InfoPlist.strings in Resources */,
 				3114418818CE99C700E1AFA4 /* Main.storyboard in Resources */,
@@ -249,9 +331,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				310E563518D684C500CE3604 /* TwoViewController.m in Sources */,
+				31A9425118D0394B00DA2EDF /* DataListClass.m in Sources */,
+				310E563218D684B600CE3604 /* OneViewController.m in Sources */,
+				310E563818D684D500CE3604 /* ThreeViewController.m in Sources */,
 				3114418B18CE99C700E1AFA4 /* ViewController.m in Sources */,
 				3114418518CE99C700E1AFA4 /* AppDelegate.m in Sources */,
 				3114418118CE99C700E1AFA4 /* main.m in Sources */,
+				310E562F18D6849400CE3604 /* tableBarViewController.m in Sources */,
+				31A9425918D05B0700DA2EDF /* customButton.m in Sources */,
+				31AD933C18D199E8007F4CBF /* customView.m in Sources */,
+				310E563B18D684E300CE3604 /* FourViewController.m in Sources */,
+				31A9424B18D038E000DA2EDF /* firstViewController.m in Sources */,
+				31A9424E18D038EF00DA2EDF /* secondViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,7 +397,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -344,7 +435,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -402,7 +492,6 @@
 		311441A718CE99C700E1AFA4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AutoLoodViewDemo.app/AutoLoodViewDemo";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -425,7 +514,6 @@
 		311441A818CE99C700E1AFA4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AutoLoodViewDemo.app/AutoLoodViewDemo";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -460,6 +548,7 @@
 				311441A518CE99C700E1AFA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		311441A618CE99C700E1AFA4 /* Build configuration list for PBXNativeTarget "AutoLoodViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +557,7 @@
 				311441A818CE99C700E1AFA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

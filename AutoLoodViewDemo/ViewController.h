@@ -10,4 +10,6 @@
 
 @interface ViewController : UIViewController
 
+@property(nonatomic,retain) UIScrollView *lScrollView;
+
 @end
